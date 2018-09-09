@@ -1,2 +1,2 @@
-# TitanicCompetition
-Machine Learning project for Titanic Competition in Kaggle
+# Titanic Competition
+Machine learning project created to solve the Kaggle's Titanic competition.
